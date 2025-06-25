@@ -17,6 +17,10 @@ Aplicação desenvolvida como parte de um desafio técnico proposto pelo time da
   <source media="(prefers-color-scheme: light)" srcset="./AspProj.png">
   <img align="left" alt="description" src="./AspProj.png">
 </picture>
+
+
+
+
 [Projeto que iniciei em Asp.NET](/AspProj.png)
 
 * Conversão do Tipo de dado do atributo Valor. (foi um erro inesperado que tive no decorrer do projeto. E a solução foi criar uma classe para lidar com a converção do dado para que o programa pudesse entender o seu formato. ***Utilizei a AI nesta função***)
@@ -28,6 +32,11 @@ solução: é uma classe que lida com o tratamento do atributo valor e uso como 
   <source media="(prefers-color-scheme: light)" srcset="./ErroTipo.png">
   <img align="left" alt="description" src="./ErroTipo.png">
 </picture>
+
+
+
+
+
 [Erro que quebrei a cabeça para resolver](/ErroTipo.png)
 
 * Integração com SQLite. (infelizmente devido ao tempo e uns contra tempo. Não deu para implementar na aplicação final. Mas, cheguei a criar a integração ao SQLite, basedo em um código pessoal, Mas infelizmente não deu para integrar com o  programa principal.)
@@ -57,6 +66,11 @@ Ordenado por data mais antiga (X) -> Infelizmente acabei esquecendo de implement
   <source media="(prefers-color-scheme: light)" srcset="./ProgramaFinal.png">
   <img align="left" alt="description" src="./ProgramaFinal.png">
 </picture>
+
+
+
+
+
 [Programa com resultado final](/ProgramaFinal.png)
 
 * Espero que tenham gostado e que me consedam essa oportunidade pois quero crescer e me desnvolver profissionalmente nesta area junto com a empresa para aingir meus sonhos e objetivos.
