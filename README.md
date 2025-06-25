@@ -51,12 +51,13 @@ feitas:
 * Validação de entrada de dados e tratamento de exceções. (✓)
 * Cálculo de juros compostos com base nas taxas Selic. (✓)
 
-Não Feitos e justificativa: 
-Exportar para Excel (X) -> Não implementei porque poderia escolher se implentava a exportação para CSV ou ecxel. E o CSV por opinião pessoal acho mais facil e mais ajo que o excel. Além de precisar de uma lib externa para manipulação de arquivo Excel (Se não estou enganado). 
+Não Feitos e justificativa:  
 
-Ordenado por data mais antiga (X) -> Infelizmente acabei esquecendo de implementar essa função.  
+* Exportar para Excel (X) -> Não implementei porque poderia escolher se implentava a exportação para CSV ou ecxel. E o CSV por opinião pessoal acho mais facil e mais ajo que o excel. Além de precisar de uma lib externa para manipulação de arquivo Excel (Se não estou enganado). 
 
-(Opcional) Persistência local em banco de dados SQLite. (X) -> infelizmente pelo restante do tempo que tinha não acabou dando tempo.
+* Ordenado por data mais antiga (X) -> Infelizmente acabei esquecendo de implementar essa função.  
+
+* (Opcional) Persistência local em banco de dados SQLite. (X) -> infelizmente pelo restante do tempo que tinha não acabou dando tempo.
 
 # Resultado final
 
