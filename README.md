@@ -44,12 +44,12 @@ solução: é uma classe que lida com o tratamento do atributo valor e uso como 
 
 # Check List de funcinalidades
 feitas: 
-Requisição HTTP para consumo da API pública de dados Selic. (✓)
-Exportar para CSV. (✓)
-Serialização dos dados JSON em objetos fortemente tipados. (✓)
-Exibição de menu interativo com opções para o usuário. (✓)
-Validação de entrada de dados e tratamento de exceções. (✓)
-Cálculo de juros compostos com base nas taxas Selic. (✓)
+* Requisição HTTP para consumo da API pública de dados Selic. (✓)
+* Exportar para CSV. (✓)
+* Serialização dos dados JSON em objetos fortemente tipados. (✓)
+* Exibição de menu interativo com opções para o usuário. (✓)
+* Validação de entrada de dados e tratamento de exceções. (✓)
+* Cálculo de juros compostos com base nas taxas Selic. (✓)
 
 Não Feitos e justificativa: 
 Exportar para Excel (X) -> Não implementei porque poderia escolher se implentava a exportação para CSV ou ecxel. E o CSV por opinião pessoal acho mais facil e mais ajo que o excel. Além de precisar de uma lib externa para manipulação de arquivo Excel (Se não estou enganado). 
