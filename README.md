@@ -16,7 +16,7 @@ Aplicação desenvolvida como parte de um desafio técnico proposto pelo time da
   <source media="(prefers-color-scheme: dark)" srcset="./AspProj.png">
   <source media="(prefers-color-scheme: light)" srcset="./AspProj.png">
   <img align="left" alt="description" src="./AspProj.png">
-</picture>
+</picture>  
 
 
 
@@ -31,7 +31,7 @@ solução: é uma classe que lida com o tratamento do atributo valor e uso como 
   <source media="(prefers-color-scheme: dark)" srcset="./ErroTipo.png">
   <source media="(prefers-color-scheme: light)" srcset="./ErroTipo.png">
   <img align="left" alt="description" src="./ErroTipo.png">
-</picture>
+</picture>  
 
 
 
@@ -65,7 +65,7 @@ Ordenado por data mais antiga (X) -> Infelizmente acabei esquecendo de implement
   <source media="(prefers-color-scheme: dark)" srcset="./ProgramaFinal.png">
   <source media="(prefers-color-scheme: light)" srcset="./ProgramaFinal.png">
   <img align="left" alt="description" src="./ProgramaFinal.png">
-</picture>
+</picture>  
 
 
 
